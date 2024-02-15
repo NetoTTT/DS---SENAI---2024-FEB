@@ -1,0 +1,36 @@
+/* Seletores */
+/*InLine = Direto na tag HTML*/
+
+h1{
+    /*Cor do Elemento*/
+    color:blanchedalmond;
+    /*Tipo de Fonte*/
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /*Tamanho da Fonte*/
+    font-size: 47pt;
+    /*Aliamento da fonte*/
+    text-align: center;
+}
+h2{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+    text-align: left;
+
+}
+
+p{
+    color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+    text-align: left;
+
+}
+/*font-*/
+h3{
+    color:black;
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 8pt;
+    text-align: center;
+}
