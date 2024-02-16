@@ -1,0 +1,19 @@
+table{
+    border: 5px;
+    border-style: ridge;
+    border-color: black;
+}
+tr{
+    border: 3px;
+    border-style: ridge;
+    border-color: black;
+}
+th{
+    border: 3px;
+    border-style: ridge;
+    border-color: black;
+}
+li{
+    /*Apaga o Estilo da lista*/
+    /*list-style: none;*/
+}
